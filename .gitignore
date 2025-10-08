@@ -1,0 +1,16 @@
+# Archivos de compilación de Visual Studio y .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Archivos de publicación
+publish/
+
+# Archivos de sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de log
+*.log
